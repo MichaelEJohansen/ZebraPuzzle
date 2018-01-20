@@ -1,0 +1,31 @@
+Color
+Name
+Chocolate
+Pet
+Hobby
+Holiday
+
+5
+
+Jo likes the Wispa Bites.
+The person with the Hamster likes Swimming.
+Hannah eats Dairy Milk.
+Jessica is on the left of Georgina.
+Lucy is the first on the left.
+The first person on the right likes Swimming.
+The person who eats Milky Bars owns a Horse.
+The person in the middle eats Dairy Milk.
+Jessica likes Green.
+The person on the left of the middle wants to go to Tobago.
+The person who wants to go to the Maldives likes Lilac.
+The person who likes Wispa Bites sits next to the person who wants to go to Florida.
+The person who likes Pink wants to go to Florida.
+The person who sits first on the left likes Lilac.
+The girl that likes Blue owns a Puppy.
+The person who likes Skiing sits next to the person who has a Hamster.
+The girl on the right of the girl who likes Tennis likes Horse riding.
+The girl next to the girl who likes Milky Bars likes Boost.
+The girl who likes Purple wants to go to Canada.
+The girl who likes Crunchies owns a Rabbit.
+The girl who likes Skiing sits next to the girl who plays Ten-pin bowlings.
+Jessica wants to go to Australia.

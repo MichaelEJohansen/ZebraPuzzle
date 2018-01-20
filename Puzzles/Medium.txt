@@ -1,0 +1,31 @@
+Shirt
+Name
+Gift
+Department
+Age
+Drink
+
+5
+
+Cody is the youngest employee.
+The person gifted with a Book is exactly to the left of who works at the HR department.
+In the fifth position is the person drinking Juice.
+Riley is next to the 41 years old employee.
+The 35 years old employee is at one of the ends.
+The man wearing the Red shirt is somewhere between the one who received a Mug and the one drinking Soft drink, in that order.
+The employee drinking Coffee is exactly to the left of who got a Notepad as a gift.
+The man drinking Tea is exactly to the right of the man wearing the Blue shirt.
+The employee wearing the Green shirt is next to the 28 years old.
+Steven is exactly to the right of Cody.
+In the second position is the person drinking Water.
+The employee that works at the R&D department is at the third position.
+Tyler's gift was a Mug.
+The oldest employee is at the fifth position.
+The person drinking Soft drink is at the third position.
+Riley is next to the person who got a Tie as a gift.
+The youngest employee is somewhere between the person drinking Water and the oldest person, in that order.
+Jason is exactly to the right of the man wearing the Black shirt.
+Cody is next to the one drinking Soft drink.
+The man wearing the Blue shirt is somewhere to the left of the employee that works at the Sales department.
+The employee that works at the IT department was gifted a Notepad.
+At the fourth position is the one drinking Tea.
